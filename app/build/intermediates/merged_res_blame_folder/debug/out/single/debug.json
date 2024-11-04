@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_backbutton.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/backbutton.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main8.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main8.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_screenshot_2024_10_10_at_3_19_56pm.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/screenshot_2024_10_10_at_3_19_56pm.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main3.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_boschtop.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/boschtop.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_4.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_4.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_8.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_8.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main5.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main5.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_10.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_10.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_1_2.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_1_2.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_6.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_6.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_2_2.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_2_2.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main7.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main7.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_3_2.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_3_2.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_bosch_logo.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/bosch_logo.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main2.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_arrow_back.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/arrow_back.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_bo.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/bo.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main4.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main4.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_anotherlogo.jpeg.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/anotherlogo.jpeg"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable_group_9.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable/group_9.png"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/drawable-xhdpi_group_5.png.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/drawable-xhdpi/group_5.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-35:/layout_activity_main8.xml.flat",
+        "source": "com.example.myapplication.app-main-37:/layout/activity_main8.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/layout_activity_main6.xml.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/layout/activity_main6.xml"
+    },
+    {
+        "merged": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/abbasbaba/.gradle/daemon/8.2/com.example.myapplication.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    }
+]
